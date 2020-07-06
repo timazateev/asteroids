@@ -1,0 +1,142 @@
+Asteroid  destroid
+Ship damage is 4. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 7. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 4. Asteroid destroid
+Ship damage is 7. Asteroid destroid
+Asteroid  destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 4. Asteroid destroid
+Ship damage is 3. Asteroid destroid
+Ship damage is 3. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 7. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 7. Asteroid destroid
+Ship damage is 7. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 3. Asteroid destroid
+Ship damage is 3. Asteroid destroid
+Ship damage is 7. Asteroid destroid
+Ship damage is 7. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 3. Asteroid destroid
+Ship damage is 4. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 4. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 3. Asteroid destroid
+Ship damage is 3. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 4. Asteroid destroid
+Ship damage is 1. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Ship damage is 7. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 5. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+Asteroid  destroid
+Asteroid  destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 2. Asteroid destroid
+Ship damage is 3. Asteroid destroid
+Ship damage is 6. Asteroid destroid
+Ship damage is 8. Asteroid destroid
+Ship damage is 9. Asteroid destroid
+7/6/2020 9:38:21 AMShip damage is 7. Asteroid destroid
+7/6/2020 9:38:22 AMShip damage is 5. Asteroid destroid
+7/6/2020 9:38:22 AMShip damage is 6. Asteroid destroid
+7/6/2020 9:38:25 AMAsteroid  destroid
+7/6/2020 9:39:14 AM Ship damage is 2. Asteroid destroid
+7/6/2020 9:39:15 AM Ship damage is 6. Asteroid destroid
+7/6/2020 9:39:15 AM Ship damage is 3. Asteroid destroid
+7/6/2020 9:39:16 AM Ship damage is 5. Asteroid destroid
+7/6/2020 9:40:15 AM [INFO]Ship damage is 2. Asteroid destroid
+7/6/2020 9:40:16 AM [INFO]Ship damage is 8. Asteroid destroid
+7/6/2020 9:40:20 AM [INFO]Asteroid  destroid
+7/6/2020 9:40:21 AM [INFO]Ship damage is 7. Asteroid destroid
+7/6/2020 9:40:21 AM [INFO]Ship damage is 7. Asteroid destroid
+7/6/2020 9:40:24 AM [INFO]Ship damage is 7. Asteroid destroid
+7/6/2020 9:40:24 AM [INFO]Ship damage is 7. Asteroid destroid
+7/6/2020 9:53:56 AM [INFO] Ship damage is 4. Asteroid destroid
+7/6/2020 9:53:57 AM [INFO] Ship damage is 5. Asteroid destroid
+7/6/2020 9:53:59 AM [INFO] Ship damage is 3. Asteroid destroid
+7/6/2020 9:54:00 AM [INFO] Ship damage is 3. Asteroid destroid
+7/6/2020 9:54:00 AM [INFO] Ship damage is 2. Asteroid destroid
+7/6/2020 9:54:03 AM [INFO] Ship damage is 3. Asteroid destroid
+7/6/2020 9:56:32 AM [INFO] Ship damage is 1. Asteroid destroid
+7/6/2020 9:56:36 AM [INFO] Asteroid  destroid
+7/6/2020 10:08:10 AM [INFO] Ship damage is 9. Asteroid destroid
+7/6/2020 10:08:16 AM [INFO] Ship repaired HP 3. Aid kit picked up
+7/6/2020 10:08:16 AM [INFO] Asteroid  destroid
+7/6/2020 10:08:17 AM [INFO] Ship repaired HP 9. Aid kit picked up
+7/6/2020 10:09:58 AM [INFO] Ship damage is 3. Asteroid destroid
+7/6/2020 10:10:00 AM [INFO] Ship repaired HP 6. Aid kit picked up
+7/6/2020 10:10:00 AM [INFO] Ship damage is 1. Asteroid destroid
+7/6/2020 10:10:02 AM [INFO] Asteroid  destroid
+7/6/2020 10:10:03 AM [INFO] Ship repaired HP 5. Aid kit picked up
+7/6/2020 10:10:06 AM [INFO] Ship repaired HP 4. Aid kit picked up
+7/6/2020 10:10:06 AM [INFO] Ship repaired HP 7. Aid kit picked up
+7/6/2020 10:10:08 AM [INFO] Ship damage is 2. Asteroid destroid
+7/6/2020 10:10:11 AM [INFO] Ship damage is 5. Asteroid destroid
+7/6/2020 10:10:13 AM [INFO] Ship damage is 8. Asteroid destroid
+7/6/2020 10:10:14 AM [INFO] Ship damage is 1. Asteroid destroid
+7/6/2020 10:10:14 AM [INFO] Ship damage is 5. Asteroid destroid
+7/6/2020 10:10:17 AM [INFO] Ship damage is 6. Asteroid destroid
+7/6/2020 10:10:20 AM [INFO] Ship repaired HP 7. Aid kit picked up
+7/6/2020 10:10:30 AM [INFO] Ship repaired HP 2. Aid kit picked up
+7/6/2020 10:11:36 AM [INFO] Ship damage is 9. Asteroid destroid
+7/6/2020 10:11:37 AM [INFO] Ship repaired HP 2. Aid kit picked up
+7/6/2020 10:11:38 AM [INFO] Ship damage is 6. Asteroid destroid
+7/6/2020 10:11:41 AM [INFO] Ship damage is 1. Asteroid destroid
+7/6/2020 10:11:43 AM [INFO] Ship damage is 6. Asteroid destroid
+7/6/2020 10:11:45 AM [INFO] Aid kit  destroid :-( 
